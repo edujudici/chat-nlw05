@@ -17,7 +17,10 @@ yarn typeorm migration:run
 yarn dev
 
 
-# open chat page
+# open chat client page
 http://localhost:3333/pages/client
+
+# open chat admin page
+http://localhost:3333/pages/admin
 
 ```
