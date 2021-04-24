@@ -1,5 +1,5 @@
 # chat-nlw05
-Chat using chat io with NodeJS and Typescript
+Chat using socket io with NodeJS and Typescript
 
 
 ## Quick Start
